@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simply-chocolate/static/css/main.7acaea2f.css",
+    "main.js": "/simply-chocolate/static/js/main.07d3183d.js",
+    "index.html": "/simply-chocolate/index.html",
+    "main.7acaea2f.css.map": "/simply-chocolate/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/simply-chocolate/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
